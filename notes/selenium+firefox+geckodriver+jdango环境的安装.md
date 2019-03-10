@@ -61,7 +61,7 @@ https://download-ssl.firefox.com.cn/releases-sha2/full/65.0/zh-CN/Firefox-full-l
 
 附加组件--->查看更多附加组件--->搜索selenium IDE--->添加插件
 
-![1552205533870](.\1552205533870.png)
+![1552205533870](1552205533870.png)
 
 6. 安装geckodriver驱动
 
@@ -147,7 +147,7 @@ python functional_tests.py
 
 5. 运行成功，界面如下：
 
-![1552208025346](.\1552208025346.png)
+![1552208025346](1552208025346.png)
 
 
 
